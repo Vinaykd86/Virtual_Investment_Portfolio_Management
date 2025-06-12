@@ -5,6 +5,9 @@
 This project presents a comprehensive analysis of my stock investment portfolio, covering the period from October 2023 to May 2025. The primary objective is to track portfolio performance, evaluate returns and risk, and derive insights into long-term investment behavior. The analysis is based on Virtual trading activity conducted via the StockGro platform, and includes both portfolio-level summaries and individual stock performance breakdowns.
 
 As part of this project, I also implemented technical analysis methodologies to assess market trends and identify potential investment opportunities. By leveraging key technical indicators such as moving averages, RSI, MACD, and candlestick patterns, I developed structured entry strategies to enhance the precision of investment decisions and optimize trade timing.
+
+I also utilized Jupyter Notebook as the analytical environment, the NumPy library for numerical computations, and yFinance to fetch historical stock data. These tools were used to calculate individual stock volatilities and estimate overall portfolio risk.
+
 Overall, this project combines practical experience with analytical techniques to demonstrate a strong foundation in equity research, portfolio management, and data-driven decision-making in financial markets.
 
 The portfolio initially comprised a diversified set of equity holdings; however, based on evolving market conditions and continuous performance evaluation, it was strategically realigned to focus on two high-conviction investments: General Insurance Corporation of India and Suzlon Energy. This adjustment was driven by the goal of optimizing returns and consolidating capital into fundamentally and technically promising stocks.
