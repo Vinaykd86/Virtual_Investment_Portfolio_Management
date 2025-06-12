@@ -1,9 +1,7 @@
 # Virtual_Investment_Portfolio_Management
-![Image](https://github.com/user-attachments/assets/ee4394ec-47e8-4d7b-b2f5-e3a41ab3daeb)
-
-![Image](https://github.com/user-attachments/assets/fb83e510-e045-42aa-a964-4319e4eb789e)
-
-![Image](https://github.com/user-attachments/assets/cdf372ab-ddeb-481f-8051-e6b915ec34d7)
+![Image](https://github.com/user-attachments/assets/f0125014-d8f2-4051-8b16-73149f769e75)
+![Image](https://github.com/user-attachments/assets/8b0e85d5-afc7-4bea-8e8c-b2c526513e0b)
+![Image](https://github.com/user-attachments/assets/cd4de18a-8eb2-4ac7-8615-a99dd6e06d22)
 
 This project presents a comprehensive analysis of my stock investment portfolio, covering the period from October 2023 to May 2025. The primary objective is to track portfolio performance, evaluate returns and risk, and derive insights into long-term investment behavior. The analysis is based on Virtual trading activity conducted via the StockGro platform, and includes both portfolio-level summaries and individual stock performance breakdowns.
 As part of this project, I also implemented technical analysis methodologies to assess market trends and identify potential investment opportunities. By leveraging key technical indicators such as moving averages, RSI, MACD, and candlestick patterns, I developed structured entry strategies to enhance the precision of investment decisions and optimize trade timing.
