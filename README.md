@@ -1,5 +1,4 @@
 # Virtual_Investment_Portfolio_Management
-![Image](https://github.com/user-attachments/assets/f0125014-d8f2-4051-8b16-73149f769e75)
 ![Image](https://github.com/user-attachments/assets/8b0e85d5-afc7-4bea-8e8c-b2c526513e0b)
 ![Image](https://github.com/user-attachments/assets/cd4de18a-8eb2-4ac7-8615-a99dd6e06d22)
 
